@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy German Neironi
+# 👋 ¡Hi! I'm German Neironi
 
 ## 🚀 Senior Data Analyst | 🧠 Machine Learning Enthusiast | 🏥 Healthcare Tech Specialist
 
