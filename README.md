@@ -35,7 +35,7 @@ class GermanNeironi:
 
 ### 🛠️ Tech Stack
 
-- **Data Visualization:** Power BI, Tableau, Pentaho
+- **Data Visualization:** Power BI, Tableau, Pentaho, Power BI Report Builder, AWS Qhicksight, AWS Athena, AWS Glue.
 - **Databases:** SQL, NoSQL (MySQL, Oracle, Postgres, MongoDB)
 - **Programming:** Python, PySpark, Scala
 - **Machine Learning:** NumPy, Pandas, Scikit-learn, Keras, PyTorch
