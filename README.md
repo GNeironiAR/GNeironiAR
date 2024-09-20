@@ -54,17 +54,6 @@ class GermanNeironi:
 
 ---
 
-### 🌱 Current Focus
-
-I'm diving deep into the world of Machine Learning and AI, working on exciting projects like:
-
-- 🎬 Sentiment analysis for movie reviews
-- 🚗 Vehicle make and model classification from e-commerce images
-- 🏠 Home credit risk prediction
-- ⚽ Salary prediction models for sports players
-
----
-
 ### 📚 Continuous Learning
 
 Always hungry for knowledge, I'm constantly expanding my skill set:
