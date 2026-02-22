@@ -5,6 +5,7 @@
 I build production AI systems that solve real business problems — not prototypes, not demos. 15+ years turning complex technical challenges into working solutions across healthcare, fintech, and cloud infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gneironi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gneironi/)
+[![GitHub](https://img.shields.io/badge/GitHub-GNeironiAR-181717?style=flat&logo=github)](https://github.com/GNeironiAR)
 [![Website](https://img.shields.io/badge/Web-gneironi.com-000?style=flat&logo=google-chrome)](https://gneironi.com)
 [![Email](https://img.shields.io/badge/Email-g.neironi2@gmail.com-EA4335?style=flat&logo=gmail)](mailto:g.neironi2@gmail.com)
 
@@ -14,7 +15,7 @@ I build production AI systems that solve real business problems — not prototyp
 
 🔹 **[CloudPruneAI](https://app.cloudpruneai.com)** — FinOps SaaS that uses AI to analyze and optimize AWS costs. Detects $18K+/month in savings across hundreds of instances. Built end-to-end: architecture, backend, frontend, infra, billing.
 
-🔹 **[Moovelix](https://github.com/gneironi)** — B2B livestock transport marketplace for Argentina. Full-stack with geospatial capabilities (PostGIS).
+🔹 **[Moovelix](https://github.com/GNeironiAR)** — B2B livestock transport marketplace for Argentina. Full-stack with geospatial capabilities (PostGIS).
 
 ---
 
@@ -53,7 +54,7 @@ I build production AI systems that solve real business problems — not prototyp
 
 ## Career Repositioning Methodology
 
-I built a [4-phase framework for career repositioning using AI](https://github.com/gneironi) — from gap analysis to execution plan. Designed for tech professionals transitioning into AI-integrated roles. Open and free to use.
+I built a [4-phase framework for career repositioning using AI](https://github.com/GNeironiAR) — from gap analysis to execution plan. Designed for tech professionals transitioning into AI-integrated roles. Open and free to use.
 
 ---
 
