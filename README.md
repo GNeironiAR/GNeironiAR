@@ -6,7 +6,7 @@ I build production AI systems that solve real business problems — not prototyp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gneironi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gneironi/)
 [![GitHub](https://img.shields.io/badge/GitHub-GNeironiAR-181717?style=flat&logo=github)](https://github.com/GNeironiAR)
-[![Website](https://img.shields.io/badge/Web-gneironi.com-000?style=flat&logo=google-chrome)](https://gneironi.com)
+[![Website](https://img.shields.io/badge/Web-gneironi.com-000?style=flat&logo=google-chrome)](https://website.gneironi.com)
 [![Email](https://img.shields.io/badge/Email-g.neironi2@gmail.com-EA4335?style=flat&logo=gmail)](mailto:g.neironi2@gmail.com)
 
 ---
