@@ -15,7 +15,9 @@ I build production AI systems that solve real business problems — not prototyp
 
 🔹 **[CloudPruneAI](https://app.cloudpruneai.com)** — FinOps SaaS that uses AI to analyze and optimize AWS costs. Detects $18K+/month in savings across hundreds of instances. Built end-to-end: architecture, backend, frontend, infra, billing.
 
-🔹 **[Moovelix](https://github.com/GNeironiAR)** — B2B livestock transport marketplace for Argentina. Full-stack with geospatial capabilities (PostGIS).
+🔹 **[ScouterHUD](https://github.com/GNeironiAR/scouterHUD)** — Open-source AR monocular HUD ecosystem (~$50 BOM). QR-Link protocol for IoT device discovery. Python + Flutter + MQTT. 203 tests. Hardware + software.
+
+🔹 **Moovelix** — B2B livestock transport marketplace for Argentina. Full-stack with geospatial capabilities (PostGIS).
 
 ---
 
@@ -49,12 +51,6 @@ I build production AI systems that solve real business problems — not prototyp
 `AWS Cloud Practitioner` · `Azure Fundamentals` · `Azure Data Engineering` · `AWS Data Analytics (Glue, Athena, Kinesis, EMR, QuickSight)` · `ML Engineer (Anyone AI)` · `Scrum Master`
 
 📚 Currently preparing: **AWS Solutions Architect Associate (SAA-C03)** — March 2026
-
----
-
-## Career Repositioning Methodology
-
-I built a [4-phase framework for career repositioning using AI](https://github.com/GNeironiAR) — from gap analysis to execution plan. Designed for tech professionals transitioning into AI-integrated roles. Open and free to use.
 
 ---
 
