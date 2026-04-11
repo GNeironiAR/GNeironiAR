@@ -1,7 +1,7 @@
 # Hey, I'm Germán Neironi 👋
 **Cloud & AI Solutions Engineer | Founder @ [desMondes Studio](https://desmondes.studio)**
 
-I build production software that solves real operational problems — not prototypes, not demos. 15+ years turning complex technical challenges into working solutions across healthcare, fintech, cloud infrastructure, and industrial IoT.
+I build production software that solves real operational problems, not prototypes, not demos. 15+ years turning complex technical challenges into working solutions across healthcare, fintech, cloud infrastructure, and industrial IoT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gneironi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gneironi/)
 [![GitHub](https://img.shields.io/badge/GitHub-GNeironiAR-181717?style=flat&logo=github)](https://github.com/GNeironiAR)
