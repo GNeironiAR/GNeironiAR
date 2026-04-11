@@ -1,6 +1,6 @@
 # Hey, I'm Germán Neironi 👋
 
-**Cloud & AI Solutions Engineer | Founder @ [CloudPruneAI](https://app.cloudpruneai.com)**
+**Cloud & AI Solutions Engineer | Founder @ [CloudPruneAI](https://app.cloudpruneai.com)** & **[Quira](https://quira.io)** 
 
 I build production AI systems that solve real business problems — not prototypes, not demos. 15+ years turning complex technical challenges into working solutions across healthcare, fintech, and cloud infrastructure.
 
