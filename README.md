@@ -17,7 +17,7 @@ I build production AI systems that solve real business problems — not prototyp
 
 🔹 **[ScouterHUD](https://github.com/GNeironiAR/scouterHUD)** — Open-source AR monocular HUD ecosystem (~$50 BOM). QR-Link protocol for IoT device discovery. Python + Flutter + MQTT. 203 tests. Hardware + software.
 
-🔹 **[Quita](https://quira.io)** — Real-time environmental monitoring for industrial facilities.
+🔹 **[Quira](https://quira.io)** — Real-time environmental monitoring for industrial facilities.
 
 🔹 **Moovelix** — B2B livestock transport marketplace for Argentina. Full-stack with geospatial capabilities (PostGIS).
 
