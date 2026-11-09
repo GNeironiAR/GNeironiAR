@@ -1,20 +1,20 @@
 # Hey, I'm Germán Neironi 👋
 **Cloud & AI Solutions Engineer | Founder @ [desMondes Studio](https://desmondes.studio)**
 
-I build production software that solves real operational problems, not prototypes, not demos. 15+ years turning complex technical challenges into working solutions across healthcare, fintech, cloud infrastructure, and industrial IoT.
+I build software that solves real operational problems. 18+ years turning complex technical challenges into working solutions across healthcare, fintech, cloud infrastructure, and industrial IoT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gneironi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gneironi/)
 [![GitHub](https://img.shields.io/badge/GitHub-GNeironiAR-181717?style=flat&logo=github)](https://github.com/GNeironiAR)
-[![Website](https://img.shields.io/badge/Web-gneironi.com-000?style=flat&logo=google-chrome)](https://gneironi.com)
+[![Website](https://img.shields.io/badge/Web-gneironiar.github.io-000?style=flat&logo=google-chrome)](https://gneironiar.github.io/personal_website/)
 [![Email](https://img.shields.io/badge/Email-g.neironi2@gmail.com-EA4335?style=flat&logo=gmail)](mailto:g.neironi2@gmail.com)
 
 ---
 
 ## What I'm Building
 
-🔹 **[CloudPruneAI](https://app.cloudpruneai.com)** — FinOps SaaS for AWS consultancies and MSPs. Detects waste across 15+ categories, generates ready-to-deploy Terraform / CloudFormation / CDK code, and delivers white-label reports. Gainshare + Operate subscription model. Built end-to-end: architecture, backend, frontend, infra, billing.
+🔹 **[CloudPruneAI](https://app.cloudpruneai.com)** — FinOps SaaS for AWS consultancies and MSPs. Detects waste across compute, storage, database, networking and AI/ML, generates ready-to-deploy Terraform / CloudFormation / CDK code, and delivers white-label reports. Built end-to-end: architecture, backend, frontend, infra, billing.
 
-🔹 **[Quira](https://quira.io)** — Industrial environmental monitoring SaaS for LATAM. Multi-tenant B2B2B platform (super_admin / partner / tenant). ESP32 sensors + HMAC-SHA256 firmware, real-time alerts, PDF/CSV audit reports, Microsoft Teams integration via Power Automate. ~30k lines, verified end-to-end with real hardware in under a week.
+🔹 **[Quira](https://quira.io)** — Industrial environmental monitoring platform for LATAM, available for licensing to operators. Multi-tenant B2B2B platform (super_admin / partner / tenant). ESP32 sensors + HMAC-SHA256 firmware, real-time alerts, PDF/CSV audit reports, Microsoft Teams integration via Power Automate. ~30k lines, verified end-to-end with real hardware in under a week.
 
 🔹 **[ScouterHUD](https://github.com/GNeironiAR/scouterHUD)** — Open-source AR monocular HUD ecosystem (~$50 BOM). QR-Link protocol for IoT device discovery. Python + Flutter + MQTT + on-device Gemma 3 LLM. 230+ tests. Full hardware + software stack.
 
@@ -51,8 +51,6 @@ I build production software that solves real operational problems, not prototype
 ## Certifications
 
 `AWS Cloud Practitioner` · `Azure Fundamentals` · `Azure Data Engineering` · `AWS Data Analytics (Glue, Athena, Kinesis, EMR, QuickSight)` · `ML Engineer (Anyone AI)` · `Scrum Master`
-
-📚 Currently preparing: **AWS Solutions Architect Associate (SAA-C03)** — April 27, 2026
 
 ---
 
